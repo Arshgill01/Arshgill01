@@ -29,4 +29,4 @@ Focused on developer tooling, local/edge AI harnesses, and production open-sourc
 
 ---
 
-[X / Twitter](https://x.com/clasher11102) · [All Merged OSS PRs](https://github.com/pulls?q=is%3Apr+author%3AArshgill01+is%3Amerged+-user%3AArshgill01)
+[Portfolio](https://arshgill01.github.io/) · [X / Twitter](https://x.com/clasher11102) · [All Merged OSS PRs](https://github.com/pulls?q=is%3Apr+author%3AArshgill01+is%3Amerged+-user%3AArshgill01)
